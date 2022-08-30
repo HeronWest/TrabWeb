@@ -1,0 +1,59 @@
+body{
+    background-color: antiquewhite;
+}
+
+#carossel{
+    margin-top: 25px;
+    
+    width: 80%;
+    height: 5%px;
+}
+
+#qs{
+    margin-left: 50px;
+        width: 600px;
+        height: 400px;   
+        margin-top: 25px;
+        border-radius: 10px;
+}
+#qs2{
+    margin-left: 50px; 
+    margin-top: 25px;
+    border-radius: 10px;
+}
+#carosselSer{
+    margin-top: 25px;
+    margin-left: 80px;
+    width: 600px;
+    height: 500px;
+}
+
+#imagesCar{
+    width: 100%;
+    height: 400px;   
+    margin-top: 25px;
+    border-radius: 10px;
+}
+#imagesSer{
+    width: 600px;
+    height: 350px;   
+    margin-top: 25px;
+    border-radius: 10px;
+}
+#alin{
+    align-content: center;
+}
+
+#imgcard{
+    width: 287px;
+    height: 180px;
+}
+#cards{
+    padding-left: 50px;
+    padding-top: 30px;
+    
+}
+footer{
+    background-color:aliceblue;
+    margin-top: 60px;
+}
